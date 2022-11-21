@@ -1,2 +1,2 @@
 # Running Sum
-## This is an Algorithm Calculate a running sum
+## This is an Algorithm that Calculates a running sum
